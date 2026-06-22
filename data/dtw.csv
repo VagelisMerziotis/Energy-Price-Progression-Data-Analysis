@@ -1,0 +1,46 @@
+product1,product2
+Beef,Fresh whole milk
+Beef,Cheese
+Beef,Olive oil
+Beef,Fresh fruits
+Beef,Potatoes
+Beef,Sugar
+Beef,Coffee
+Beef,Water supply
+Beef,Education
+Fresh whole milk,Cheese
+Fresh whole milk,Olive oil
+Fresh whole milk,Fresh vegetables
+Fresh whole milk,Potatoes
+Fresh whole milk,Sugar
+Fresh whole milk,Coffee
+Fresh whole milk,Water supply
+Fresh whole milk,Education
+Cheese,Olive oil
+Cheese,Fresh vegetables
+Cheese,Potatoes
+Cheese,Sugar
+Cheese,Coffee
+Cheese,Water supply
+Cheese,Education
+Olive oil,Fresh vegetables
+Olive oil,Potatoes
+Olive oil,Sugar
+Olive oil,Coffee
+Olive oil,Water supply
+Olive oil,Education
+Fresh fruits,Sugar
+Fresh fruits,Solid fuels
+Fresh fruits,Education
+Fresh vegetables,Potatoes
+Fresh vegetables,Coffee
+Fresh vegetables,Water supply
+Potatoes,Coffee
+Potatoes,Water supply
+Sugar,Coffee
+Sugar,Education
+Coffee,Water supply
+Coffee,Education
+Electricity,Housing
+Heating oil,Housing
+Pharmaceutical products,Health

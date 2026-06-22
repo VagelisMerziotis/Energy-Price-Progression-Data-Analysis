@@ -1,0 +1,961 @@
+﻿TIME;Gross consolidated debt of General Government (2024q4);INSTR_ASSETS_CLASSIFICATION;ORIG_MATURITY;CONTROL;Value
+2000-Q1;Total Maastricht debt;GD;T;1=2+5+8;139528
+2000-Q1;Currency and deposits;F2;T;2=3+4;559
+2000-Q1;Currency;F21;_Z;3;157
+2000-Q1;Deposits;F2M;T;4;402
+2000-Q1;Debt securities;F3;T;5=6+7;102708
+2000-Q1;Short-term;F3;S;6;3644
+2000-Q1;Long-term;F3;L;7;99064
+2000-Q1;Loans;F4;T;8=9+10;36261
+2000-Q1;Short-term;F4;S;9;1244
+2000-Q1;Long-term;F4;L;10;35017
+2000-Q2;Total Maastricht debt;GD;T;1=2+5+8;145575
+2000-Q2;Currency and deposits;F2;T;2=3+4;518
+2000-Q2;Currency;F21;_Z;3;160
+2000-Q2;Deposits;F2M;T;4;358
+2000-Q2;Debt securities;F3;T;5=6+7;107480
+2000-Q2;Short-term;F3;S;6;2599
+2000-Q2;Long-term;F3;L;7;104881
+2000-Q2;Loans;F4;T;8=9+10;37577
+2000-Q2;Short-term;F4;S;9;1933
+2000-Q2;Long-term;F4;L;10;35644
+2000-Q3;Total Maastricht debt;GD;T;1=2+5+8;148090
+2000-Q3;Currency and deposits;F2;T;2=3+4;508
+2000-Q3;Currency;F21;_Z;3;164
+2000-Q3;Deposits;F2M;T;4;344
+2000-Q3;Debt securities;F3;T;5=6+7;108865
+2000-Q3;Short-term;F3;S;6;2222
+2000-Q3;Long-term;F3;L;7;106643
+2000-Q3;Loans;F4;T;8=9+10;38717
+2000-Q3;Short-term;F4;S;9;2379
+2000-Q3;Long-term;F4;L;10;36338
+2000-Q4;Total Maastricht debt;GD;T;1=2+5+8;148217
+2000-Q4;Currency and deposits;F2;T;2=3+4;497
+2000-Q4;Currency;F21;_Z;3;178
+2000-Q4;Deposits;F2M;T;4;319
+2000-Q4;Debt securities;F3;T;5=6+7;107750
+2000-Q4;Short-term;F3;S;6;1766
+2000-Q4;Long-term;F3;L;7;105984
+2000-Q4;Loans;F4;T;8=9+10;39970
+2000-Q4;Short-term;F4;S;9;4210
+2000-Q4;Long-term;F4;L;10;35760
+2001-Q1;Total Maastricht debt;GD;T;1=2+5+8;154271
+2001-Q1;Currency and deposits;F2;T;2=3+4;535
+2001-Q1;Currency;F21;_Z;3;184
+2001-Q1;Deposits;F2M;T;4;351
+2001-Q1;Debt securities;F3;T;5=6+7;108735
+2001-Q1;Short-term;F3;S;6;1716
+2001-Q1;Long-term;F3;L;7;107019
+2001-Q1;Loans;F4;T;8=9+10;45001
+2001-Q1;Short-term;F4;S;9;2877
+2001-Q1;Long-term;F4;L;10;42124
+2001-Q2;Total Maastricht debt;GD;T;1=2+5+8;155307
+2001-Q2;Currency and deposits;F2;T;2=3+4;554
+2001-Q2;Currency;F21;_Z;3;202
+2001-Q2;Deposits;F2M;T;4;352
+2001-Q2;Debt securities;F3;T;5=6+7;109942
+2001-Q2;Short-term;F3;S;6;959
+2001-Q2;Long-term;F3;L;7;108983
+2001-Q2;Loans;F4;T;8=9+10;44811
+2001-Q2;Short-term;F4;S;9;2380
+2001-Q2;Long-term;F4;L;10;42431
+2001-Q3;Total Maastricht debt;GD;T;1=2+5+8;155163
+2001-Q3;Currency and deposits;F2;T;2=3+4;562
+2001-Q3;Currency;F21;_Z;3;204
+2001-Q3;Deposits;F2M;T;4;358
+2001-Q3;Debt securities;F3;T;5=6+7;109104
+2001-Q3;Short-term;F3;S;6;1512
+2001-Q3;Long-term;F3;L;7;107592
+2001-Q3;Loans;F4;T;8=9+10;45497
+2001-Q3;Short-term;F4;S;9;2026
+2001-Q3;Long-term;F4;L;10;43471
+2001-Q4;Total Maastricht debt;GD;T;1=2+5+8;162971
+2001-Q4;Currency and deposits;F2;T;2=3+4;603
+2001-Q4;Currency;F21;_Z;3;198
+2001-Q4;Deposits;F2M;T;4;405
+2001-Q4;Debt securities;F3;T;5=6+7;115137
+2001-Q4;Short-term;F3;S;6;747
+2001-Q4;Long-term;F3;L;7;114390
+2001-Q4;Loans;F4;T;8=9+10;47231
+2001-Q4;Short-term;F4;S;9;3209
+2001-Q4;Long-term;F4;L;10;44022
+2002-Q1;Total Maastricht debt;GD;T;1=2+5+8;161507
+2002-Q1;Currency and deposits;F2;T;2=3+4;1069
+2002-Q1;Currency;F21;_Z;3;0
+2002-Q1;Deposits;F2M;T;4;1069
+2002-Q1;Debt securities;F3;T;5=6+7;114831
+2002-Q1;Short-term;F3;S;6;818
+2002-Q1;Long-term;F3;L;7;114013
+2002-Q1;Loans;F4;T;8=9+10;45607
+2002-Q1;Short-term;F4;S;9;1346
+2002-Q1;Long-term;F4;L;10;44261
+2002-Q2;Total Maastricht debt;GD;T;1=2+5+8;162757
+2002-Q2;Currency and deposits;F2;T;2=3+4;1021
+2002-Q2;Currency;F21;_Z;3;0
+2002-Q2;Deposits;F2M;T;4;1021
+2002-Q2;Debt securities;F3;T;5=6+7;117682
+2002-Q2;Short-term;F3;S;6;857
+2002-Q2;Long-term;F3;L;7;116825
+2002-Q2;Loans;F4;T;8=9+10;44054
+2002-Q2;Short-term;F4;S;9;1172
+2002-Q2;Long-term;F4;L;10;42882
+2002-Q3;Total Maastricht debt;GD;T;1=2+5+8;164471
+2002-Q3;Currency and deposits;F2;T;2=3+4;1203
+2002-Q3;Currency;F21;_Z;3;0
+2002-Q3;Deposits;F2M;T;4;1203
+2002-Q3;Debt securities;F3;T;5=6+7;119636
+2002-Q3;Short-term;F3;S;6;893
+2002-Q3;Long-term;F3;L;7;118743
+2002-Q3;Loans;F4;T;8=9+10;43632
+2002-Q3;Short-term;F4;S;9;1061
+2002-Q3;Long-term;F4;L;10;42571
+2002-Q4;Total Maastricht debt;GD;T;1=2+5+8;171410
+2002-Q4;Currency and deposits;F2;T;2=3+4;1260
+2002-Q4;Currency;F21;_Z;3;0
+2002-Q4;Deposits;F2M;T;4;1260
+2002-Q4;Debt securities;F3;T;5=6+7;125282
+2002-Q4;Short-term;F3;S;6;966
+2002-Q4;Long-term;F3;L;7;124316
+2002-Q4;Loans;F4;T;8=9+10;44868
+2002-Q4;Short-term;F4;S;9;2901
+2002-Q4;Long-term;F4;L;10;41967
+2003-Q1;Total Maastricht debt;GD;T;1=2+5+8;170278
+2003-Q1;Currency and deposits;F2;T;2=3+4;1131
+2003-Q1;Currency;F21;_Z;3;0
+2003-Q1;Deposits;F2M;T;4;1131
+2003-Q1;Debt securities;F3;T;5=6+7;125327
+2003-Q1;Short-term;F3;S;6;1374
+2003-Q1;Long-term;F3;L;7;123953
+2003-Q1;Loans;F4;T;8=9+10;43820
+2003-Q1;Short-term;F4;S;9;1761
+2003-Q1;Long-term;F4;L;10;42059
+2003-Q2;Total Maastricht debt;GD;T;1=2+5+8;174153
+2003-Q2;Currency and deposits;F2;T;2=3+4;1109
+2003-Q2;Currency;F21;_Z;3;0
+2003-Q2;Deposits;F2M;T;4;1109
+2003-Q2;Debt securities;F3;T;5=6+7;129142
+2003-Q2;Short-term;F3;S;6;1327
+2003-Q2;Long-term;F3;L;7;127815
+2003-Q2;Loans;F4;T;8=9+10;43902
+2003-Q2;Short-term;F4;S;9;1572
+2003-Q2;Long-term;F4;L;10;42330
+2003-Q3;Total Maastricht debt;GD;T;1=2+5+8;174592
+2003-Q3;Currency and deposits;F2;T;2=3+4;1198
+2003-Q3;Currency;F21;_Z;3;0
+2003-Q3;Deposits;F2M;T;4;1198
+2003-Q3;Debt securities;F3;T;5=6+7;130032
+2003-Q3;Short-term;F3;S;6;1065
+2003-Q3;Long-term;F3;L;7;128967
+2003-Q3;Loans;F4;T;8=9+10;43362
+2003-Q3;Short-term;F4;S;9;1516
+2003-Q3;Long-term;F4;L;10;41846
+2003-Q4;Total Maastricht debt;GD;T;1=2+5+8;181510
+2003-Q4;Currency and deposits;F2;T;2=3+4;1149
+2003-Q4;Currency;F21;_Z;3;0
+2003-Q4;Deposits;F2M;T;4;1149
+2003-Q4;Debt securities;F3;T;5=6+7;136866
+2003-Q4;Short-term;F3;S;6;542
+2003-Q4;Long-term;F3;L;7;136324
+2003-Q4;Loans;F4;T;8=9+10;43495
+2003-Q4;Short-term;F4;S;9;2809
+2003-Q4;Long-term;F4;L;10;40686
+2004-Q1;Total Maastricht debt;GD;T;1=2+5+8;187837
+2004-Q1;Currency and deposits;F2;T;2=3+4;1181
+2004-Q1;Currency;F21;_Z;3;0
+2004-Q1;Deposits;F2M;T;4;1181
+2004-Q1;Debt securities;F3;T;5=6+7;146319
+2004-Q1;Short-term;F3;S;6;942
+2004-Q1;Long-term;F3;L;7;145377
+2004-Q1;Loans;F4;T;8=9+10;40337
+2004-Q1;Short-term;F4;S;9;1880
+2004-Q1;Long-term;F4;L;10;38457
+2004-Q2;Total Maastricht debt;GD;T;1=2+5+8;198359
+2004-Q2;Currency and deposits;F2;T;2=3+4;1263
+2004-Q2;Currency;F21;_Z;3;0
+2004-Q2;Deposits;F2M;T;4;1263
+2004-Q2;Debt securities;F3;T;5=6+7;156592
+2004-Q2;Short-term;F3;S;6;1040
+2004-Q2;Long-term;F3;L;7;155552
+2004-Q2;Loans;F4;T;8=9+10;40504
+2004-Q2;Short-term;F4;S;9;1945
+2004-Q2;Long-term;F4;L;10;38559
+2004-Q3;Total Maastricht debt;GD;T;1=2+5+8;199794
+2004-Q3;Currency and deposits;F2;T;2=3+4;1327
+2004-Q3;Currency;F21;_Z;3;0
+2004-Q3;Deposits;F2M;T;4;1327
+2004-Q3;Debt securities;F3;T;5=6+7;158832
+2004-Q3;Short-term;F3;S;6;1005
+2004-Q3;Long-term;F3;L;7;157827
+2004-Q3;Loans;F4;T;8=9+10;39635
+2004-Q3;Short-term;F4;S;9;1739
+2004-Q3;Long-term;F4;L;10;37896
+2004-Q4;Total Maastricht debt;GD;T;1=2+5+8;199282
+2004-Q4;Currency and deposits;F2;T;2=3+4;1315
+2004-Q4;Currency;F21;_Z;3;0
+2004-Q4;Deposits;F2M;T;4;1315
+2004-Q4;Debt securities;F3;T;5=6+7;155706
+2004-Q4;Short-term;F3;S;6;1464
+2004-Q4;Long-term;F3;L;7;154242
+2004-Q4;Loans;F4;T;8=9+10;42261
+2004-Q4;Short-term;F4;S;9;3713
+2004-Q4;Long-term;F4;L;10;38548
+2005-Q1;Total Maastricht debt;GD;T;1=2+5+8;200892
+2005-Q1;Currency and deposits;F2;T;2=3+4;1443
+2005-Q1;Currency;F21;_Z;3;0
+2005-Q1;Deposits;F2M;T;4;1443
+2005-Q1;Debt securities;F3;T;5=6+7;157609
+2005-Q1;Short-term;F3;S;6;1274
+2005-Q1;Long-term;F3;L;7;156335
+2005-Q1;Loans;F4;T;8=9+10;41840
+2005-Q1;Short-term;F4;S;9;1817
+2005-Q1;Long-term;F4;L;10;40023
+2005-Q2;Total Maastricht debt;GD;T;1=2+5+8;209098
+2005-Q2;Currency and deposits;F2;T;2=3+4;1476
+2005-Q2;Currency;F21;_Z;3;0
+2005-Q2;Deposits;F2M;T;4;1476
+2005-Q2;Debt securities;F3;T;5=6+7;165705
+2005-Q2;Short-term;F3;S;6;1247
+2005-Q2;Long-term;F3;L;7;164458
+2005-Q2;Loans;F4;T;8=9+10;41917
+2005-Q2;Short-term;F4;S;9;1502
+2005-Q2;Long-term;F4;L;10;40415
+2005-Q3;Total Maastricht debt;GD;T;1=2+5+8;212478
+2005-Q3;Currency and deposits;F2;T;2=3+4;1491
+2005-Q3;Currency;F21;_Z;3;0
+2005-Q3;Deposits;F2M;T;4;1491
+2005-Q3;Debt securities;F3;T;5=6+7;171409
+2005-Q3;Short-term;F3;S;6;1205
+2005-Q3;Long-term;F3;L;7;170204
+2005-Q3;Loans;F4;T;8=9+10;39578
+2005-Q3;Short-term;F4;S;9;1400
+2005-Q3;Long-term;F4;L;10;38178
+2005-Q4;Total Maastricht debt;GD;T;1=2+5+8;213976
+2005-Q4;Currency and deposits;F2;T;2=3+4;1378
+2005-Q4;Currency;F21;_Z;3;0
+2005-Q4;Deposits;F2M;T;4;1378
+2005-Q4;Debt securities;F3;T;5=6+7;172451
+2005-Q4;Short-term;F3;S;6;1156
+2005-Q4;Long-term;F3;L;7;171295
+2005-Q4;Loans;F4;T;8=9+10;40147
+2005-Q4;Short-term;F4;S;9;3123
+2005-Q4;Long-term;F4;L;10;37024
+2006-Q1;Total Maastricht debt;GD;T;1=2+5+8;214744
+2006-Q1;Currency and deposits;F2;T;2=3+4;828
+2006-Q1;Currency;F21;_Z;3;0
+2006-Q1;Deposits;F2M;T;4;828
+2006-Q1;Debt securities;F3;T;5=6+7;175656
+2006-Q1;Short-term;F3;S;6;1222
+2006-Q1;Long-term;F3;L;7;174434
+2006-Q1;Loans;F4;T;8=9+10;38260
+2006-Q1;Short-term;F4;S;9;2363
+2006-Q1;Long-term;F4;L;10;35897
+2006-Q2;Total Maastricht debt;GD;T;1=2+5+8;219515
+2006-Q2;Currency and deposits;F2;T;2=3+4;893
+2006-Q2;Currency;F21;_Z;3;0
+2006-Q2;Deposits;F2M;T;4;893
+2006-Q2;Debt securities;F3;T;5=6+7;180921
+2006-Q2;Short-term;F3;S;6;4759
+2006-Q2;Long-term;F3;L;7;176162
+2006-Q2;Loans;F4;T;8=9+10;37701
+2006-Q2;Short-term;F4;S;9;1999
+2006-Q2;Long-term;F4;L;10;35702
+2006-Q3;Total Maastricht debt;GD;T;1=2+5+8;221659
+2006-Q3;Currency and deposits;F2;T;2=3+4;1044
+2006-Q3;Currency;F21;_Z;3;0
+2006-Q3;Deposits;F2M;T;4;1044
+2006-Q3;Debt securities;F3;T;5=6+7;182875
+2006-Q3;Short-term;F3;S;6;1137
+2006-Q3;Long-term;F3;L;7;181738
+2006-Q3;Loans;F4;T;8=9+10;37740
+2006-Q3;Short-term;F4;S;9;1400
+2006-Q3;Long-term;F4;L;10;36340
+2006-Q4;Total Maastricht debt;GD;T;1=2+5+8;225730
+2006-Q4;Currency and deposits;F2;T;2=3+4;1085
+2006-Q4;Currency;F21;_Z;3;0
+2006-Q4;Deposits;F2M;T;4;1085
+2006-Q4;Debt securities;F3;T;5=6+7;184156
+2006-Q4;Short-term;F3;S;6;943
+2006-Q4;Long-term;F3;L;7;183213
+2006-Q4;Loans;F4;T;8=9+10;40489
+2006-Q4;Short-term;F4;S;9;3911
+2006-Q4;Long-term;F4;L;10;36578
+2007-Q1;Total Maastricht debt;GD;T;1=2+5+8;231675
+2007-Q1;Currency and deposits;F2;T;2=3+4;708
+2007-Q1;Currency;F21;_Z;3;0
+2007-Q1;Deposits;F2M;T;4;708
+2007-Q1;Debt securities;F3;T;5=6+7;193783
+2007-Q1;Short-term;F3;S;6;895
+2007-Q1;Long-term;F3;L;7;192888
+2007-Q1;Loans;F4;T;8=9+10;37184
+2007-Q1;Short-term;F4;S;9;2349
+2007-Q1;Long-term;F4;L;10;34835
+2007-Q2;Total Maastricht debt;GD;T;1=2+5+8;233269
+2007-Q2;Currency and deposits;F2;T;2=3+4;789
+2007-Q2;Currency;F21;_Z;3;0
+2007-Q2;Deposits;F2M;T;4;789
+2007-Q2;Debt securities;F3;T;5=6+7;195938
+2007-Q2;Short-term;F3;S;6;7161
+2007-Q2;Long-term;F3;L;7;188777
+2007-Q2;Loans;F4;T;8=9+10;36542
+2007-Q2;Short-term;F4;S;9;2493
+2007-Q2;Long-term;F4;L;10;34049
+2007-Q3;Total Maastricht debt;GD;T;1=2+5+8;234171
+2007-Q3;Currency and deposits;F2;T;2=3+4;806
+2007-Q3;Currency;F21;_Z;3;0
+2007-Q3;Deposits;F2M;T;4;806
+2007-Q3;Debt securities;F3;T;5=6+7;197892
+2007-Q3;Short-term;F3;S;6;2256
+2007-Q3;Long-term;F3;L;7;195636
+2007-Q3;Loans;F4;T;8=9+10;35473
+2007-Q3;Short-term;F4;S;9;1586
+2007-Q3;Long-term;F4;L;10;33887
+2007-Q4;Total Maastricht debt;GD;T;1=2+5+8;239915
+2007-Q4;Currency and deposits;F2;T;2=3+4;751
+2007-Q4;Currency;F21;_Z;3;0
+2007-Q4;Deposits;F2M;T;4;751
+2007-Q4;Debt securities;F3;T;5=6+7;201108
+2007-Q4;Short-term;F3;S;6;1625
+2007-Q4;Long-term;F3;L;7;199483
+2007-Q4;Loans;F4;T;8=9+10;38056
+2007-Q4;Short-term;F4;S;9;3842
+2007-Q4;Long-term;F4;L;10;34214
+2008-Q1;Total Maastricht debt;GD;T;1=2+5+8;244548
+2008-Q1;Currency and deposits;F2;T;2=3+4;878
+2008-Q1;Currency;F21;_Z;3;0
+2008-Q1;Deposits;F2M;T;4;878
+2008-Q1;Debt securities;F3;T;5=6+7;208611
+2008-Q1;Short-term;F3;S;6;838
+2008-Q1;Long-term;F3;L;7;207773
+2008-Q1;Loans;F4;T;8=9+10;35059
+2008-Q1;Short-term;F4;S;9;2393
+2008-Q1;Long-term;F4;L;10;32666
+2008-Q2;Total Maastricht debt;GD;T;1=2+5+8;249692
+2008-Q2;Currency and deposits;F2;T;2=3+4;756
+2008-Q2;Currency;F21;_Z;3;0
+2008-Q2;Deposits;F2M;T;4;756
+2008-Q2;Debt securities;F3;T;5=6+7;213542
+2008-Q2;Short-term;F3;S;6;6788
+2008-Q2;Long-term;F3;L;7;206754
+2008-Q2;Loans;F4;T;8=9+10;35394
+2008-Q2;Short-term;F4;S;9;2003
+2008-Q2;Long-term;F4;L;10;33391
+2008-Q3;Total Maastricht debt;GD;T;1=2+5+8;256238
+2008-Q3;Currency and deposits;F2;T;2=3+4;770
+2008-Q3;Currency;F21;_Z;3;0
+2008-Q3;Deposits;F2M;T;4;770
+2008-Q3;Debt securities;F3;T;5=6+7;220244
+2008-Q3;Short-term;F3;S;6;5747
+2008-Q3;Long-term;F3;L;7;214497
+2008-Q3;Loans;F4;T;8=9+10;35224
+2008-Q3;Short-term;F4;S;9;2008
+2008-Q3;Long-term;F4;L;10;33216
+2008-Q4;Total Maastricht debt;GD;T;1=2+5+8;264775
+2008-Q4;Currency and deposits;F2;T;2=3+4;844
+2008-Q4;Currency;F21;_Z;3;0
+2008-Q4;Deposits;F2M;T;4;844
+2008-Q4;Debt securities;F3;T;5=6+7;225449
+2008-Q4;Short-term;F3;S;6;5496
+2008-Q4;Long-term;F3;L;7;219953
+2008-Q4;Loans;F4;T;8=9+10;38482
+2008-Q4;Short-term;F4;S;9;4290
+2008-Q4;Long-term;F4;L;10;34192
+2009-Q1;Total Maastricht debt;GD;T;1=2+5+8;281548
+2009-Q1;Currency and deposits;F2;T;2=3+4;866
+2009-Q1;Currency;F21;_Z;3;0
+2009-Q1;Deposits;F2M;T;4;866
+2009-Q1;Debt securities;F3;T;5=6+7;244352
+2009-Q1;Short-term;F3;S;6;7568
+2009-Q1;Long-term;F3;L;7;236784
+2009-Q1;Loans;F4;T;8=9+10;36330
+2009-Q1;Short-term;F4;S;9;2412
+2009-Q1;Long-term;F4;L;10;33918
+2009-Q2;Total Maastricht debt;GD;T;1=2+5+8;291479
+2009-Q2;Currency and deposits;F2;T;2=3+4;1139
+2009-Q2;Currency;F21;_Z;3;0
+2009-Q2;Deposits;F2M;T;4;1139
+2009-Q2;Debt securities;F3;T;5=6+7;255587
+2009-Q2;Short-term;F3;S;6;12830
+2009-Q2;Long-term;F3;L;7;242757
+2009-Q2;Loans;F4;T;8=9+10;34753
+2009-Q2;Short-term;F4;S;9;2250
+2009-Q2;Long-term;F4;L;10;32503
+2009-Q3;Total Maastricht debt;GD;T;1=2+5+8;296231
+2009-Q3;Currency and deposits;F2;T;2=3+4;1201
+2009-Q3;Currency;F21;_Z;3;0
+2009-Q3;Deposits;F2M;T;4;1201
+2009-Q3;Debt securities;F3;T;5=6+7;260504
+2009-Q3;Short-term;F3;S;6;16880
+2009-Q3;Long-term;F3;L;7;243624
+2009-Q3;Loans;F4;T;8=9+10;34526
+2009-Q3;Short-term;F4;S;9;2126
+2009-Q3;Long-term;F4;L;10;32400
+2009-Q4;Total Maastricht debt;GD;T;1=2+5+8;301062
+2009-Q4;Currency and deposits;F2;T;2=3+4;1663
+2009-Q4;Currency;F21;_Z;3;0
+2009-Q4;Deposits;F2M;T;4;1663
+2009-Q4;Debt securities;F3;T;5=6+7;262773
+2009-Q4;Short-term;F3;S;6;10024
+2009-Q4;Long-term;F3;L;7;252749
+2009-Q4;Loans;F4;T;8=9+10;36626
+2009-Q4;Short-term;F4;S;9;3413
+2009-Q4;Long-term;F4;L;10;33213
+2010-Q1;Total Maastricht debt;GD;T;1=2+5+8;311473
+2010-Q1;Currency and deposits;F2;T;2=3+4;1049
+2010-Q1;Currency;F21;_Z;3;0
+2010-Q1;Deposits;F2M;T;4;1049
+2010-Q1;Debt securities;F3;T;5=6+7;273854
+2010-Q1;Short-term;F3;S;6;7721
+2010-Q1;Long-term;F3;L;7;266133
+2010-Q1;Loans;F4;T;8=9+10;36570
+2010-Q1;Short-term;F4;S;9;4487
+2010-Q1;Long-term;F4;L;10;32083
+2010-Q2;Total Maastricht debt;GD;T;1=2+5+8;315853
+2010-Q2;Currency and deposits;F2;T;2=3+4;1135
+2010-Q2;Currency;F21;_Z;3;0
+2010-Q2;Deposits;F2M;T;4;1135
+2010-Q2;Debt securities;F3;T;5=6+7;260829
+2010-Q2;Short-term;F3;S;6;6572
+2010-Q2;Long-term;F3;L;7;254257
+2010-Q2;Loans;F4;T;8=9+10;53889
+2010-Q2;Short-term;F4;S;9;2174
+2010-Q2;Long-term;F4;L;10;51715
+2010-Q3;Total Maastricht debt;GD;T;1=2+5+8;328594
+2010-Q3;Currency and deposits;F2;T;2=3+4;1315
+2010-Q3;Currency;F21;_Z;3;0
+2010-Q3;Deposits;F2M;T;4;1315
+2010-Q3;Debt securities;F3;T;5=6+7;262153
+2010-Q3;Short-term;F3;S;6;9398
+2010-Q3;Long-term;F3;L;7;252755
+2010-Q3;Loans;F4;T;8=9+10;65126
+2010-Q3;Short-term;F4;S;9;1501
+2010-Q3;Long-term;F4;L;10;63625
+2010-Q4;Total Maastricht debt;GD;T;1=2+5+8;330570
+2010-Q4;Currency and deposits;F2;T;2=3+4;1203
+2010-Q4;Currency;F21;_Z;3;0
+2010-Q4;Deposits;F2M;T;4;1203
+2010-Q4;Debt securities;F3;T;5=6+7;262555
+2010-Q4;Short-term;F3;S;6;8273
+2010-Q4;Long-term;F3;L;7;254282
+2010-Q4;Loans;F4;T;8=9+10;66812
+2010-Q4;Short-term;F4;S;9;3169
+2010-Q4;Long-term;F4;L;10;63643
+2011-Q1;Total Maastricht debt;GD;T;1=2+5+8;342265
+2011-Q1;Currency and deposits;F2;T;2=3+4;1121
+2011-Q1;Currency;F21;_Z;3;0
+2011-Q1;Deposits;F2M;T;4;1121
+2011-Q1;Debt securities;F3;T;5=6+7;257313
+2011-Q1;Short-term;F3;S;6;6168
+2011-Q1;Long-term;F3;L;7;251145
+2011-Q1;Loans;F4;T;8=9+10;83831
+2011-Q1;Short-term;F4;S;9;1338
+2011-Q1;Long-term;F4;L;10;82493
+2011-Q2;Total Maastricht debt;GD;T;1=2+5+8;342057
+2011-Q2;Currency and deposits;F2;T;2=3+4;1103
+2011-Q2;Currency;F21;_Z;3;0
+2011-Q2;Deposits;F2M;T;4;1103
+2011-Q2;Debt securities;F3;T;5=6+7;258140
+2011-Q2;Short-term;F3;S;6;12380
+2011-Q2;Long-term;F3;L;7;245760
+2011-Q2;Loans;F4;T;8=9+10;82814
+2011-Q2;Short-term;F4;S;9;1426
+2011-Q2;Long-term;F4;L;10;81388
+2011-Q3;Total Maastricht debt;GD;T;1=2+5+8;348354
+2011-Q3;Currency and deposits;F2;T;2=3+4;1306
+2011-Q3;Currency;F21;_Z;3;0
+2011-Q3;Deposits;F2M;T;4;1306
+2011-Q3;Debt securities;F3;T;5=6+7;251397
+2011-Q3;Short-term;F3;S;6;11794
+2011-Q3;Long-term;F3;L;7;239603
+2011-Q3;Loans;F4;T;8=9+10;95651
+2011-Q3;Short-term;F4;S;9;1725
+2011-Q3;Long-term;F4;L;10;93926
+2011-Q4;Total Maastricht debt;GD;T;1=2+5+8;356235
+2011-Q4;Currency and deposits;F2;T;2=3+4;1106
+2011-Q4;Currency;F21;_Z;3;0
+2011-Q4;Deposits;F2M;T;4;1106
+2011-Q4;Debt securities;F3;T;5=6+7;251622
+2011-Q4;Short-term;F3;S;6;10850
+2011-Q4;Long-term;F3;L;7;240772
+2011-Q4;Loans;F4;T;8=9+10;103507
+2011-Q4;Short-term;F4;S;9;2918
+2011-Q4;Long-term;F4;L;10;100589
+2012-Q1;Total Maastricht debt;GD;T;1=2+5+8;281499
+2012-Q1;Currency and deposits;F2;T;2=3+4;1042
+2012-Q1;Currency;F21;_Z;3;0
+2012-Q1;Deposits;F2M;T;4;1042
+2012-Q1;Debt securities;F3;T;5=6+7;141692
+2012-Q1;Short-term;F3;S;6;12310
+2012-Q1;Long-term;F3;L;7;129382
+2012-Q1;Loans;F4;T;8=9+10;138765
+2012-Q1;Short-term;F4;S;9;651
+2012-Q1;Long-term;F4;L;10;138114
+2012-Q2;Total Maastricht debt;GD;T;1=2+5+8;301787
+2012-Q2;Currency and deposits;F2;T;2=3+4;1246
+2012-Q2;Currency;F21;_Z;3;0
+2012-Q2;Deposits;F2M;T;4;1246
+2012-Q2;Debt securities;F3;T;5=6+7;125804
+2012-Q2;Short-term;F3;S;6;12276
+2012-Q2;Long-term;F3;L;7;113528
+2012-Q2;Loans;F4;T;8=9+10;174737
+2012-Q2;Short-term;F4;S;9;561
+2012-Q2;Long-term;F4;L;10;174176
+2012-Q3;Total Maastricht debt;GD;T;1=2+5+8;301208
+2012-Q3;Currency and deposits;F2;T;2=3+4;1246
+2012-Q3;Currency;F21;_Z;3;0
+2012-Q3;Deposits;F2M;T;4;1246
+2012-Q3;Debt securities;F3;T;5=6+7;125790
+2012-Q3;Short-term;F3;S;6;15405
+2012-Q3;Long-term;F3;L;7;110385
+2012-Q3;Loans;F4;T;8=9+10;174172
+2012-Q3;Short-term;F4;S;9;336
+2012-Q3;Long-term;F4;L;10;173836
+2012-Q4;Total Maastricht debt;GD;T;1=2+5+8;305085
+2012-Q4;Currency and deposits;F2;T;2=3+4;1055
+2012-Q4;Currency;F21;_Z;3;0
+2012-Q4;Deposits;F2M;T;4;1055
+2012-Q4;Debt securities;F3;T;5=6+7;93432
+2012-Q4;Short-term;F3;S;6;15309
+2012-Q4;Long-term;F3;L;7;78123
+2012-Q4;Loans;F4;T;8=9+10;210598
+2012-Q4;Short-term;F4;S;9;2491
+2012-Q4;Long-term;F4;L;10;208107
+2013-Q1;Total Maastricht debt;GD;T;1=2+5+8;306699
+2013-Q1;Currency and deposits;F2;T;2=3+4;1044
+2013-Q1;Currency;F21;_Z;3;0
+2013-Q1;Deposits;F2M;T;4;1044
+2013-Q1;Debt securities;F3;T;5=6+7;89322
+2013-Q1;Short-term;F3;S;6;11475
+2013-Q1;Long-term;F3;L;7;77847
+2013-Q1;Loans;F4;T;8=9+10;216333
+2013-Q1;Short-term;F4;S;9;502
+2013-Q1;Long-term;F4;L;10;215831
+2013-Q2;Total Maastricht debt;GD;T;1=2+5+8;317674
+2013-Q2;Currency and deposits;F2;T;2=3+4;1251
+2013-Q2;Currency;F21;_Z;3;0
+2013-Q2;Deposits;F2M;T;4;1251
+2013-Q2;Debt securities;F3;T;5=6+7;81965
+2013-Q2;Short-term;F3;S;6;10977
+2013-Q2;Long-term;F3;L;7;70988
+2013-Q2;Loans;F4;T;8=9+10;234458
+2013-Q2;Short-term;F4;S;9;295
+2013-Q2;Long-term;F4;L;10;234163
+2013-Q3;Total Maastricht debt;GD;T;1=2+5+8;318007
+2013-Q3;Currency and deposits;F2;T;2=3+4;1299
+2013-Q3;Currency;F21;_Z;3;0
+2013-Q3;Deposits;F2M;T;4;1299
+2013-Q3;Debt securities;F3;T;5=6+7;79069
+2013-Q3;Short-term;F3;S;6;10877
+2013-Q3;Long-term;F3;L;7;68192
+2013-Q3;Loans;F4;T;8=9+10;237639
+2013-Q3;Short-term;F4;S;9;282
+2013-Q3;Long-term;F4;L;10;237357
+2013-Q4;Total Maastricht debt;GD;T;1=2+5+8;320498
+2013-Q4;Currency and deposits;F2;T;2=3+4;1088
+2013-Q4;Currency;F21;_Z;3;0
+2013-Q4;Deposits;F2M;T;4;1088
+2013-Q4;Debt securities;F3;T;5=6+7;79194
+2013-Q4;Short-term;F3;S;6;10872
+2013-Q4;Long-term;F3;L;7;68322
+2013-Q4;Loans;F4;T;8=9+10;240216
+2013-Q4;Short-term;F4;S;9;2164
+2013-Q4;Long-term;F4;L;10;238052
+2014-Q1;Total Maastricht debt;GD;T;1=2+5+8;319971
+2014-Q1;Currency and deposits;F2;T;2=3+4;6041
+2014-Q1;Currency;F21;_Z;3;0
+2014-Q1;Deposits;F2M;T;4;6041
+2014-Q1;Debt securities;F3;T;5=6+7;77360
+2014-Q1;Short-term;F3;S;6;11285
+2014-Q1;Long-term;F3;L;7;66075
+2014-Q1;Loans;F4;T;8=9+10;236570
+2014-Q1;Short-term;F4;S;9;477
+2014-Q1;Long-term;F4;L;10;236093
+2014-Q2;Total Maastricht debt;GD;T;1=2+5+8;322055
+2014-Q2;Currency and deposits;F2;T;2=3+4;6121
+2014-Q2;Currency;F21;_Z;3;0
+2014-Q2;Deposits;F2M;T;4;6121
+2014-Q2;Debt securities;F3;T;5=6+7;72298
+2014-Q2;Short-term;F3;S;6;12681
+2014-Q2;Long-term;F3;L;7;59617
+2014-Q2;Loans;F4;T;8=9+10;243636
+2014-Q2;Short-term;F4;S;9;486
+2014-Q2;Long-term;F4;L;10;243150
+2014-Q3;Total Maastricht debt;GD;T;1=2+5+8;319175
+2014-Q3;Currency and deposits;F2;T;2=3+4;6285
+2014-Q3;Currency;F21;_Z;3;0
+2014-Q3;Deposits;F2M;T;4;6285
+2014-Q3;Debt securities;F3;T;5=6+7;68997
+2014-Q3;Short-term;F3;S;6;11581
+2014-Q3;Long-term;F3;L;7;57416
+2014-Q3;Loans;F4;T;8=9+10;243893
+2014-Q3;Short-term;F4;S;9;560
+2014-Q3;Long-term;F4;L;10;243333
+2014-Q4;Total Maastricht debt;GD;T;1=2+5+8;319629
+2014-Q4;Currency and deposits;F2;T;2=3+4;6374
+2014-Q4;Currency;F21;_Z;3;0
+2014-Q4;Deposits;F2M;T;4;6374
+2014-Q4;Debt securities;F3;T;5=6+7;69466
+2014-Q4;Short-term;F3;S;6;12190
+2014-Q4;Long-term;F3;L;7;57276
+2014-Q4;Loans;F4;T;8=9+10;243789
+2014-Q4;Short-term;F4;S;9;2370
+2014-Q4;Long-term;F4;L;10;241419
+2015-Q1;Total Maastricht debt;GD;T;1=2+5+8;303363
+2015-Q1;Currency and deposits;F2;T;2=3+4;5832
+2015-Q1;Currency;F21;_Z;3;0
+2015-Q1;Deposits;F2M;T;4;5832
+2015-Q1;Debt securities;F3;T;5=6+7;68637
+2015-Q1;Short-term;F3;S;6;11508
+2015-Q1;Long-term;F3;L;7;57129
+2015-Q1;Loans;F4;T;8=9+10;228894
+2015-Q1;Short-term;F4;S;9;719
+2015-Q1;Long-term;F4;L;10;228175
+2015-Q2;Total Maastricht debt;GD;T;1=2+5+8;301980
+2015-Q2;Currency and deposits;F2;T;2=3+4;5500
+2015-Q2;Currency;F21;_Z;3;0
+2015-Q2;Deposits;F2M;T;4;5500
+2015-Q2;Debt securities;F3;T;5=6+7;68208
+2015-Q2;Short-term;F3;S;6;11096
+2015-Q2;Long-term;F3;L;7;57112
+2015-Q2;Loans;F4;T;8=9+10;228272
+2015-Q2;Short-term;F4;S;9;703
+2015-Q2;Long-term;F4;L;10;227569
+2015-Q3;Total Maastricht debt;GD;T;1=2+5+8;303907
+2015-Q3;Currency and deposits;F2;T;2=3+4;5484
+2015-Q3;Currency;F21;_Z;3;0
+2015-Q3;Deposits;F2M;T;4;5484
+2015-Q3;Debt securities;F3;T;5=6+7;61051
+2015-Q3;Short-term;F3;S;6;10699
+2015-Q3;Long-term;F3;L;7;50352
+2015-Q3;Loans;F4;T;8=9+10;237372
+2015-Q3;Short-term;F4;S;9;597
+2015-Q3;Long-term;F4;L;10;236775
+2015-Q4;Total Maastricht debt;GD;T;1=2+5+8;311729
+2015-Q4;Currency and deposits;F2;T;2=3+4;5546
+2015-Q4;Currency;F21;_Z;3;0
+2015-Q4;Deposits;F2M;T;4;5546
+2015-Q4;Debt securities;F3;T;5=6+7;61084
+2015-Q4;Short-term;F3;S;6;10884
+2015-Q4;Long-term;F3;L;7;50200
+2015-Q4;Loans;F4;T;8=9+10;245099
+2015-Q4;Short-term;F4;S;9;1509
+2015-Q4;Long-term;F4;L;10;243590
+2016-Q1;Total Maastricht debt;GD;T;1=2+5+8;309104
+2016-Q1;Currency and deposits;F2;T;2=3+4;5863
+2016-Q1;Currency;F21;_Z;3;0
+2016-Q1;Deposits;F2M;T;4;5863
+2016-Q1;Debt securities;F3;T;5=6+7;60968
+2016-Q1;Short-term;F3;S;6;10828
+2016-Q1;Long-term;F3;L;7;50140
+2016-Q1;Loans;F4;T;8=9+10;242273
+2016-Q1;Short-term;F4;S;9;478
+2016-Q1;Long-term;F4;L;10;241795
+2016-Q2;Total Maastricht debt;GD;T;1=2+5+8;315274
+2016-Q2;Currency and deposits;F2;T;2=3+4;5881
+2016-Q2;Currency;F21;_Z;3;0
+2016-Q2;Deposits;F2M;T;4;5881
+2016-Q2;Debt securities;F3;T;5=6+7;60639
+2016-Q2;Short-term;F3;S;6;10739
+2016-Q2;Long-term;F3;L;7;49900
+2016-Q2;Loans;F4;T;8=9+10;248754
+2016-Q2;Short-term;F4;S;9;641
+2016-Q2;Long-term;F4;L;10;248113
+2016-Q3;Total Maastricht debt;GD;T;1=2+5+8;311151
+2016-Q3;Currency and deposits;F2;T;2=3+4;5871
+2016-Q3;Currency;F21;_Z;3;0
+2016-Q3;Deposits;F2M;T;4;5871
+2016-Q3;Debt securities;F3;T;5=6+7;57864
+2016-Q3;Short-term;F3;S;6;10580
+2016-Q3;Long-term;F3;L;7;47284
+2016-Q3;Loans;F4;T;8=9+10;247416
+2016-Q3;Short-term;F4;S;9;584
+2016-Q3;Long-term;F4;L;10;246832
+2016-Q4;Total Maastricht debt;GD;T;1=2+5+8;315012
+2016-Q4;Currency and deposits;F2;T;2=3+4;5987
+2016-Q4;Currency;F21;_Z;3;0
+2016-Q4;Deposits;F2M;T;4;5987
+2016-Q4;Debt securities;F3;T;5=6+7;57162
+2016-Q4;Short-term;F3;S;6;10087
+2016-Q4;Long-term;F3;L;7;47075
+2016-Q4;Loans;F4;T;8=9+10;251863
+2016-Q4;Short-term;F4;S;9;2198
+2016-Q4;Long-term;F4;L;10;249665
+2017-Q1;Total Maastricht debt;GD;T;1=2+5+8;310661
+2017-Q1;Currency and deposits;F2;T;2=3+4;5917
+2017-Q1;Currency;F21;_Z;3;0
+2017-Q1;Deposits;F2M;T;4;5917
+2017-Q1;Debt securities;F3;T;5=6+7;56732
+2017-Q1;Short-term;F3;S;6;10116
+2017-Q1;Long-term;F3;L;7;46616
+2017-Q1;Loans;F4;T;8=9+10;248012
+2017-Q1;Short-term;F4;S;9;456
+2017-Q1;Long-term;F4;L;10;247556
+2017-Q2;Total Maastricht debt;GD;T;1=2+5+8;309090
+2017-Q2;Currency and deposits;F2;T;2=3+4;6039
+2017-Q2;Currency;F21;_Z;3;0
+2017-Q2;Deposits;F2M;T;4;6039
+2017-Q2;Debt securities;F3;T;5=6+7;56193
+2017-Q2;Short-term;F3;S;6;10991
+2017-Q2;Long-term;F3;L;7;45202
+2017-Q2;Loans;F4;T;8=9+10;246858
+2017-Q2;Short-term;F4;S;9;421
+2017-Q2;Long-term;F4;L;10;246437
+2017-Q3;Total Maastricht debt;GD;T;1=2+5+8;313489
+2017-Q3;Currency and deposits;F2;T;2=3+4;6064
+2017-Q3;Currency;F21;_Z;3;0
+2017-Q3;Deposits;F2M;T;4;6064
+2017-Q3;Debt securities;F3;T;5=6+7;53765
+2017-Q3;Short-term;F3;S;6;13170
+2017-Q3;Long-term;F3;L;7;40595
+2017-Q3;Loans;F4;T;8=9+10;253660
+2017-Q3;Short-term;F4;S;9;297
+2017-Q3;Long-term;F4;L;10;253363
+2017-Q4;Total Maastricht debt;GD;T;1=2+5+8;317481
+2017-Q4;Currency and deposits;F2;T;2=3+4;6008
+2017-Q4;Currency;F21;_Z;3;0
+2017-Q4;Deposits;F2M;T;4;6008
+2017-Q4;Debt securities;F3;T;5=6+7;54938
+2017-Q4;Short-term;F3;S;6;14261
+2017-Q4;Long-term;F3;L;7;40677
+2017-Q4;Loans;F4;T;8=9+10;256535
+2017-Q4;Short-term;F4;S;9;2036
+2017-Q4;Long-term;F4;L;10;254499
+2018-Q1;Total Maastricht debt;GD;T;1=2+5+8;322573
+2018-Q1;Currency and deposits;F2;T;2=3+4;5764
+2018-Q1;Currency;F21;_Z;3;0
+2018-Q1;Deposits;F2M;T;4;5764
+2018-Q1;Debt securities;F3;T;5=6+7;56529
+2018-Q1;Short-term;F3;S;6;12986
+2018-Q1;Long-term;F3;L;7;43543
+2018-Q1;Loans;F4;T;8=9+10;260280
+2018-Q1;Short-term;F4;S;9;771
+2018-Q1;Long-term;F4;L;10;259509
+2018-Q2;Total Maastricht debt;GD;T;1=2+5+8;323396
+2018-Q2;Currency and deposits;F2;T;2=3+4;5958
+2018-Q2;Currency;F21;_Z;3;0
+2018-Q2;Deposits;F2M;T;4;5958
+2018-Q2;Debt securities;F3;T;5=6+7;56902
+2018-Q2;Short-term;F3;S;6;13313
+2018-Q2;Long-term;F3;L;7;43589
+2018-Q2;Loans;F4;T;8=9+10;260536
+2018-Q2;Short-term;F4;S;9;853
+2018-Q2;Long-term;F4;L;10;259683
+2018-Q3;Total Maastricht debt;GD;T;1=2+5+8;335028
+2018-Q3;Currency and deposits;F2;T;2=3+4;6130
+2018-Q3;Currency;F21;_Z;3;0
+2018-Q3;Deposits;F2M;T;4;6130
+2018-Q3;Debt securities;F3;T;5=6+7;54404
+2018-Q3;Short-term;F3;S;6;12668
+2018-Q3;Long-term;F3;L;7;41736
+2018-Q3;Loans;F4;T;8=9+10;274494
+2018-Q3;Short-term;F4;S;9;685
+2018-Q3;Long-term;F4;L;10;273809
+2018-Q4;Total Maastricht debt;GD;T;1=2+5+8;334721
+2018-Q4;Currency and deposits;F2;T;2=3+4;6245
+2018-Q4;Currency;F21;_Z;3;0
+2018-Q4;Deposits;F2M;T;4;6245
+2018-Q4;Debt securities;F3;T;5=6+7;52882
+2018-Q4;Short-term;F3;S;6;11144
+2018-Q4;Long-term;F3;L;7;41738
+2018-Q4;Loans;F4;T;8=9+10;275594
+2018-Q4;Short-term;F4;S;9;2241
+2018-Q4;Long-term;F4;L;10;273353
+2019-Q1;Total Maastricht debt;GD;T;1=2+5+8;337410
+2019-Q1;Currency and deposits;F2;T;2=3+4;6278
+2019-Q1;Currency;F21;_Z;3;0
+2019-Q1;Deposits;F2M;T;4;6278
+2019-Q1;Debt securities;F3;T;5=6+7;61493
+2019-Q1;Short-term;F3;S;6;11591
+2019-Q1;Long-term;F3;L;7;49902
+2019-Q1;Loans;F4;T;8=9+10;269639
+2019-Q1;Short-term;F4;S;9;810
+2019-Q1;Long-term;F4;L;10;268829
+2019-Q2;Total Maastricht debt;GD;T;1=2+5+8;335564
+2019-Q2;Currency and deposits;F2;T;2=3+4;6336
+2019-Q2;Currency;F21;_Z;3;0
+2019-Q2;Deposits;F2M;T;4;6336
+2019-Q2;Debt securities;F3;T;5=6+7;60860
+2019-Q2;Short-term;F3;S;6;13024
+2019-Q2;Long-term;F3;L;7;47836
+2019-Q2;Loans;F4;T;8=9+10;268368
+2019-Q2;Short-term;F4;S;9;697
+2019-Q2;Long-term;F4;L;10;267671
+2019-Q3;Total Maastricht debt;GD;T;1=2+5+8;334331
+2019-Q3;Currency and deposits;F2;T;2=3+4;6539
+2019-Q3;Currency;F21;_Z;3;0
+2019-Q3;Deposits;F2M;T;4;6539
+2019-Q3;Debt securities;F3;T;5=6+7;60118
+2019-Q3;Short-term;F3;S;6;13542
+2019-Q3;Long-term;F3;L;7;46576
+2019-Q3;Loans;F4;T;8=9+10;267674
+2019-Q3;Short-term;F4;S;9;629
+2019-Q3;Long-term;F4;L;10;267045
+2019-Q4;Total Maastricht debt;GD;T;1=2+5+8;331144
+2019-Q4;Currency and deposits;F2;T;2=3+4;6635
+2019-Q4;Currency;F21;_Z;3;0
+2019-Q4;Deposits;F2M;T;4;6635
+2019-Q4;Debt securities;F3;T;5=6+7;57854
+2019-Q4;Short-term;F3;S;6;11752
+2019-Q4;Long-term;F3;L;7;46102
+2019-Q4;Loans;F4;T;8=9+10;266655
+2019-Q4;Short-term;F4;S;9;2267
+2019-Q4;Long-term;F4;L;10;264388
+2020-Q1;Total Maastricht debt;GD;T;1=2+5+8;330069
+2020-Q1;Currency and deposits;F2;T;2=3+4;6416
+2020-Q1;Currency;F21;_Z;3;0
+2020-Q1;Deposits;F2M;T;4;6416
+2020-Q1;Debt securities;F3;T;5=6+7;57792
+2020-Q1;Short-term;F3;S;6;9156
+2020-Q1;Long-term;F3;L;7;48636
+2020-Q1;Loans;F4;T;8=9+10;265861
+2020-Q1;Short-term;F4;S;9;1097
+2020-Q1;Long-term;F4;L;10;264764
+2020-Q2;Total Maastricht debt;GD;T;1=2+5+8;334314
+2020-Q2;Currency and deposits;F2;T;2=3+4;6539
+2020-Q2;Currency;F21;_Z;3;0
+2020-Q2;Deposits;F2M;T;4;6539
+2020-Q2;Debt securities;F3;T;5=6+7;62908
+2020-Q2;Short-term;F3;S;6;10819
+2020-Q2;Long-term;F3;L;7;52089
+2020-Q2;Loans;F4;T;8=9+10;264867
+2020-Q2;Short-term;F4;S;9;797
+2020-Q2;Long-term;F4;L;10;264070
+2020-Q3;Total Maastricht debt;GD;T;1=2+5+8;338162
+2020-Q3;Currency and deposits;F2;T;2=3+4;6428
+2020-Q3;Currency;F21;_Z;3;0
+2020-Q3;Deposits;F2M;T;4;6428
+2020-Q3;Debt securities;F3;T;5=6+7;66698
+2020-Q3;Short-term;F3;S;6;12117
+2020-Q3;Long-term;F3;L;7;54581
+2020-Q3;Loans;F4;T;8=9+10;265036
+2020-Q3;Short-term;F4;S;9;1234
+2020-Q3;Long-term;F4;L;10;263802
+2020-Q4;Total Maastricht debt;GD;T;1=2+5+8;341588
+2020-Q4;Currency and deposits;F2;T;2=3+4;6655
+2020-Q4;Currency;F21;_Z;3;0
+2020-Q4;Deposits;F2M;T;4;6655
+2020-Q4;Debt securities;F3;T;5=6+7;67187
+2020-Q4;Short-term;F3;S;6;11122
+2020-Q4;Long-term;F3;L;7;56065
+2020-Q4;Loans;F4;T;8=9+10;267746
+2020-Q4;Short-term;F4;S;9;2250
+2020-Q4;Long-term;F4;L;10;265496
+2021-Q1;Total Maastricht debt;GD;T;1=2+5+8;344705
+2021-Q1;Currency and deposits;F2;T;2=3+4;6727
+2021-Q1;Currency;F21;_Z;3;0
+2021-Q1;Deposits;F2M;T;4;6727
+2021-Q1;Debt securities;F3;T;5=6+7;74814
+2021-Q1;Short-term;F3;S;6;11452
+2021-Q1;Long-term;F3;L;7;63362
+2021-Q1;Loans;F4;T;8=9+10;263164
+2021-Q1;Short-term;F4;S;9;934
+2021-Q1;Long-term;F4;L;10;262230
+2021-Q2;Total Maastricht debt;GD;T;1=2+5+8;354540
+2021-Q2;Currency and deposits;F2;T;2=3+4;6754
+2021-Q2;Currency;F21;_Z;3;0
+2021-Q2;Deposits;F2M;T;4;6754
+2021-Q2;Debt securities;F3;T;5=6+7;80252
+2021-Q2;Short-term;F3;S;6;11472
+2021-Q2;Long-term;F3;L;7;68780
+2021-Q2;Loans;F4;T;8=9+10;267534
+2021-Q2;Short-term;F4;S;9;3771
+2021-Q2;Long-term;F4;L;10;263763
+2021-Q3;Total Maastricht debt;GD;T;1=2+5+8;357791
+2021-Q3;Currency and deposits;F2;T;2=3+4;6797
+2021-Q3;Currency;F21;_Z;3;0
+2021-Q3;Deposits;F2M;T;4;6797
+2021-Q3;Debt securities;F3;T;5=6+7;82748
+2021-Q3;Short-term;F3;S;6;11532
+2021-Q3;Long-term;F3;L;7;71216
+2021-Q3;Loans;F4;T;8=9+10;268246
+2021-Q3;Short-term;F4;S;9;3590
+2021-Q3;Long-term;F4;L;10;264656
+2021-Q4;Total Maastricht debt;GD;T;1=2+5+8;353910
+2021-Q4;Currency and deposits;F2;T;2=3+4;6757
+2021-Q4;Currency;F21;_Z;3;0
+2021-Q4;Deposits;F2M;T;4;6757
+2021-Q4;Debt securities;F3;T;5=6+7;80998
+2021-Q4;Short-term;F3;S;6;10811
+2021-Q4;Long-term;F3;L;7;70187
+2021-Q4;Loans;F4;T;8=9+10;266155
+2021-Q4;Short-term;F4;S;9;2049
+2021-Q4;Long-term;F4;L;10;264106
+2022-Q1;Total Maastricht debt;GD;T;1=2+5+8;358161
+2022-Q1;Currency and deposits;F2;T;2=3+4;6829
+2022-Q1;Currency;F21;_Z;3;0
+2022-Q1;Deposits;F2M;T;4;6829
+2022-Q1;Debt securities;F3;T;5=6+7;84043
+2022-Q1;Short-term;F3;S;6;10948
+2022-Q1;Long-term;F3;L;7;73095
+2022-Q1;Loans;F4;T;8=9+10;267289
+2022-Q1;Short-term;F4;S;9;3778
+2022-Q1;Long-term;F4;L;10;263511
+2022-Q2;Total Maastricht debt;GD;T;1=2+5+8;359586
+2022-Q2;Currency and deposits;F2;T;2=3+4;7136
+2022-Q2;Currency;F21;_Z;3;0
+2022-Q2;Deposits;F2M;T;4;7136
+2022-Q2;Debt securities;F3;T;5=6+7;86678
+2022-Q2;Short-term;F3;S;6;11251
+2022-Q2;Long-term;F3;L;7;75427
+2022-Q2;Loans;F4;T;8=9+10;265772
+2022-Q2;Short-term;F4;S;9;3647
+2022-Q2;Long-term;F4;L;10;262125
+2022-Q3;Total Maastricht debt;GD;T;1=2+5+8;357925
+2022-Q3;Currency and deposits;F2;T;2=3+4;7467
+2022-Q3;Currency;F21;_Z;3;0
+2022-Q3;Deposits;F2M;T;4;7467
+2022-Q3;Debt securities;F3;T;5=6+7;85211
+2022-Q3;Short-term;F3;S;6;11181
+2022-Q3;Long-term;F3;L;7;74030
+2022-Q3;Loans;F4;T;8=9+10;265247
+2022-Q3;Short-term;F4;S;9;3800
+2022-Q3;Long-term;F4;L;10;261447
+2022-Q4;Total Maastricht debt;GD;T;1=2+5+8;356796
+2022-Q4;Currency and deposits;F2;T;2=3+4;7248
+2022-Q4;Currency;F21;_Z;3;0
+2022-Q4;Deposits;F2M;T;4;7248
+2022-Q4;Debt securities;F3;T;5=6+7;85246
+2022-Q4;Short-term;F3;S;6;11089
+2022-Q4;Long-term;F3;L;7;74157
+2022-Q4;Loans;F4;T;8=9+10;264302
+2022-Q4;Short-term;F4;S;9;5391
+2022-Q4;Long-term;F4;L;10;258911
+2023-Q1;Total Maastricht debt;GD;T;1=2+5+8;355732
+2023-Q1;Currency and deposits;F2;T;2=3+4;6890
+2023-Q1;Currency;F21;_Z;3;0
+2023-Q1;Deposits;F2M;T;4;6890
+2023-Q1;Debt securities;F3;T;5=6+7;85502
+2023-Q1;Short-term;F3;S;6;11168
+2023-Q1;Long-term;F3;L;7;74334
+2023-Q1;Loans;F4;T;8=9+10;263340
+2023-Q1;Short-term;F4;S;9;4052
+2023-Q1;Long-term;F4;L;10;259288
+2023-Q2;Total Maastricht debt;GD;T;1=2+5+8;358137
+2023-Q2;Currency and deposits;F2;T;2=3+4;6850
+2023-Q2;Currency;F21;_Z;3;0
+2023-Q2;Deposits;F2M;T;4;6850
+2023-Q2;Debt securities;F3;T;5=6+7;88941
+2023-Q2;Short-term;F3;S;6;11227
+2023-Q2;Long-term;F3;L;7;77714
+2023-Q2;Loans;F4;T;8=9+10;262346
+2023-Q2;Short-term;F4;S;9;3755
+2023-Q2;Long-term;F4;L;10;258591
+2023-Q3;Total Maastricht debt;GD;T;1=2+5+8;360275
+2023-Q3;Currency and deposits;F2;T;2=3+4;7150
+2023-Q3;Currency;F21;_Z;3;0
+2023-Q3;Deposits;F2M;T;4;7150
+2023-Q3;Debt securities;F3;T;5=6+7;91321
+2023-Q3;Short-term;F3;S;6;11208
+2023-Q3;Long-term;F3;L;7;80113
+2023-Q3;Loans;F4;T;8=9+10;261804
+2023-Q3;Short-term;F4;S;9;3684
+2023-Q3;Long-term;F4;L;10;258120
+2023-Q4;Total Maastricht debt;GD;T;1=2+5+8;356695
+2023-Q4;Currency and deposits;F2;T;2=3+4;7239
+2023-Q4;Currency;F21;_Z;3;0
+2023-Q4;Deposits;F2M;T;4;7239
+2023-Q4;Debt securities;F3;T;5=6+7;92039
+2023-Q4;Short-term;F3;S;6;11339
+2023-Q4;Long-term;F3;L;7;80700
+2023-Q4;Loans;F4;T;8=9+10;257417
+2023-Q4;Short-term;F4;S;9;2686
+2023-Q4;Long-term;F4;L;10;254731
